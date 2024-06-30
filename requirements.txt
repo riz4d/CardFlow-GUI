@@ -1,3 +1,4 @@
 faker
 Flask
 requests
+urllib3
